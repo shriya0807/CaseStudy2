@@ -1,0 +1,27 @@
+{
+    "products":[
+        {"category":"smartphones"},
+        {"category":"laptops"},
+        {"category":"fragrances"},
+        {"category":"skincare"},
+        {"category":"groceries"},
+        {"category":"home-decoration"},
+        {"category":"furniture"},
+        {"category":"tops"},
+        {"category":"womens-dresses"},
+        {"category":"womens-shoes"},
+        {"category":"mens-shirts"},
+        {"category":"mens-shoes"},
+        {"category":"mens-watches"},
+        {"category":"womens-watches"},
+        {"category":"womens-bags"},
+        {"category":"womens-jewellery"},
+        {"category":"sunglasses"},
+        {"category":"automotive"},
+        {"category":"motorcycle"},
+        {"category":"lighting"}
+    ]
+}
+        
+        
+        
